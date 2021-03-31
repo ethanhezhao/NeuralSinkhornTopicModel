@@ -1,0 +1,26 @@
+absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1615404881292/work
+astor @ file:///home/conda/feedstock_root/build_artifacts/astor_1593610464257/work
+cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_property_1615209429212/work
+certifi==2020.12.5
+gast==0.2.2
+google-pasta==0.2.0
+grpcio @ file:///home/conda/feedstock_root/build_artifacts/grpcio_1614828354723/work
+h5py @ file:///home/conda/feedstock_root/build_artifacts/h5py_1604753641401/work
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1616943218038/work
+Keras-Applications==1.0.8
+Keras-Preprocessing @ file:///home/conda/feedstock_root/build_artifacts/keras-preprocessing_1610713559828/work
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1614595805172/work
+numpy==1.19.5
+opt-einsum==0+untagged.61.gd905544.dirty
+protobuf==3.15.6
+scipy @ file:///home/conda/feedstock_root/build_artifacts/scipy_1616878678759/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+tensorboard==1.15.0
+tensorflow==1.15.0
+tensorflow-estimator==1.15.1
+termcolor==1.1.0
+tqdm==4.59.0
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1602702424206/work
+Werkzeug==0.16.1
+wrapt @ file:///home/conda/feedstock_root/build_artifacts/wrapt_1610094880759/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1614945704755/work
